@@ -1,6 +1,6 @@
 # Breast Cancer Prediction
 
-The aim of this project is to build a classification model cappabel of classifying whether a given cell is malignant (cancerous) or benign (non-cancerous).
+The aim of this project is to build a classification model capable of classifying whether a given cell is malignant (cancerous) or benign (non-cancerous).
 
 - [Information about Dataset](#info)
 - [Tools Used](#tool-used)
